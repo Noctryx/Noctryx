@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/Noctryx/Noctryx/blob/main/Noctryx-banner.png" />
 </p>
-<h1 align="center">NOCTRYX</h1>
 <h3 align="center">Building in silence • Learning with intent • Growing without shortcuts</h3>
 
 <p align="center">
