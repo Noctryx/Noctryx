@@ -63,7 +63,7 @@ Contribution practice, Git/GitHub workflows, collaborative coding discipline.
 ## 🌐 CONNECT NODE
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/venky1418">LinkedIn</a> •
   <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
   <a href="mailto:venky14182007@gmail.com">Email</a> •
 </p>
