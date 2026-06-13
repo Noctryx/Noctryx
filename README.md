@@ -4,7 +4,7 @@
 <h3 align="center">Building in silence • Learning with intent • Growing without shortcuts</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Artificial+Intelligence+Explorer;DSA+%7C+Open+Source+%7C+Project+Builder;Consistency+over+intensity." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Artificial+Intelligence+Explorer;DSA+%7C+Open+Source+%7C+Project+Builder;Consistency+over+intensity" />
 </p>
 
 ---
